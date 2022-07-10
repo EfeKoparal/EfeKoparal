@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there. I am student and cyber security reseacher. 
+## Trying to be a professional.  
 I learn python,c and bash scripting. I solve ctf nowadays.
 <!--
 **EfeKoparal/EfeKoparal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
