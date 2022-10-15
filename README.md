@@ -9,3 +9,10 @@
 |---|---|---|---|
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/efe.koparal.png" alt="TryHackMe">
+
+<ul class="social-link">
+    <li class="twitter"><a href="https://twitter.com/efe_koparal" target="_blank"><i class="fa-twitter"></i></a></li>
+    <li class="facebook"><a href="https://www.instagram.com/efe_koparal/" target="_blank"><i class="fa-instagram"></i></a></li>
+    <li class="pinterest"><a href="https://github.com/EfeKoparal" target="_blank"><i class="fa-github"></i></a></li>
+                    
+</ul>
