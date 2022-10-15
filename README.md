@@ -10,6 +10,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/efe.koparal.png" alt="TryHackMe">
 
+## Connect with me. :smiley:
 <p>
 <a href="https://www.instagram.com/efe_koparal/"><img src="https://img.shields.io/badge/-efe_koparal-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:efekoparal@proton.me"><img src="https://img.shields.io/badge/-efekoparal@proton.me-black?logo=gmail&style=flat-square"/></a>
