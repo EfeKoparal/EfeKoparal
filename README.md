@@ -18,4 +18,9 @@
 </p>
 
 ## You may check my website
-https://efekoparal.github.io/site
+English:
+https://efekoparal.github.io/site/en
+
+Turkish version: 
+
+https://efekoparal.github.io/site/
